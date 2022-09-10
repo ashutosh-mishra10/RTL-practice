@@ -1,2 +1,0 @@
-# RTL-practice
-RTL practice
